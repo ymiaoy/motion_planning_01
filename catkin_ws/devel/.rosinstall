@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/miao/motion_planning/catkin_ws/devel/setup.sh

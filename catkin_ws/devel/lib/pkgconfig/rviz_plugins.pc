@@ -1,0 +1,8 @@
+prefix=/home/miao/motion_planning/catkin_ws/devel
+
+Name: rviz_plugins
+Description: Description of rviz_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/miao/motion_planning/catkin_ws/devel/lib 
+Requires: 
